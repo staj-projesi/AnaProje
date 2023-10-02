@@ -1,0 +1,229 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1, h2, h3, h4, h5, h6, p{
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.bootstrapDiv {
+    padding-top: 90px;
+    padding-bottom: 70px;
+    background-color: #282A35 !important;
+    color: white !important;
+    text-align: center !important;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.bootstrapHeaderTitle{
+    font-size: 67px;
+    font-weight: 700;
+    margin: 10px 0;
+}
+
+.bootstrapHeaderText{
+    margin-top: 50px;
+    margin-bottom: 20px;
+    font-weight: 400;
+    font-size: 24px;
+}
+
+/* .bootstrapContent{
+    width: 100%;
+    height: 100%;   
+} */
+
+.b3{
+    display: flex;
+    flex-direction: column;
+    background-color: #846bae;
+    color: white;
+    border-top-left-radius: 6px;
+    border-bottom-left-radius: 6px;
+    flex: 1;
+    padding-top: 60px;
+    padding-bottom: 30px;
+    padding-left: 24px;
+    padding-right: 24px;
+    font-weight: 800;
+    align-items: center;
+}
+
+.b3BoxA{
+    color: inherit;
+    background-color: transparent;
+    box-sizing: inherit;
+    cursor: pointer;
+    text-decoration: none;
+    padding: 24px;
+}
+
+.b3Box{
+    border-radius: 15%;
+    border: 2px solid white;
+    padding: 35px 25px;
+    display: inline-block;
+    font-size: 105px;
+}
+
+.b3Btn{
+    color: inherit;
+    background-color: transparent;
+    font-size: 19px;
+    margin-bottom: 16px!important;
+    margin-top: 16px!important;
+    border: 1px solid #ccc!important;
+    border-radius: 4px;
+    display: inline-block;
+    padding: 8px 16px;
+    vertical-align: middle;
+    overflow: hidden;
+    text-decoration: none;
+    color: inherit;
+    background-color: inherit;
+    text-align: center;
+    cursor: pointer;
+    white-space: nowrap;
+    max-width: 200px;
+}
+
+.b3Text{
+    font-size: 17px;
+    margin-top: 1.2em;
+    margin-bottom: 1.2em;
+    line-height: 1.5;
+    font-weight: 500;
+}
+
+.b4{
+    display: flex;
+    flex-direction: column;
+    background-color: #5f4884;
+    color: white;
+    flex: 1;
+    padding-top: 60px;
+    padding-bottom: 30px;
+    padding-left: 24px;
+    padding-right: 24px;
+    text-align: center!important;
+    font-weight: 800;
+    align-items: center;
+}
+
+.b4BoxA{
+    color: inherit;
+    background-color: transparent;
+    cursor: pointer;
+    text-decoration: none;
+    padding: 24px;
+}
+
+.b4Box{
+    border-radius: 15%;
+    border: 2px solid white;
+    padding: 35px 25px;
+    display: inline-block;
+    font-size: 105px;
+}
+
+.b4Btn{
+    color: inherit;
+    background-color: transparent;
+    font-size: 19px;
+    margin-bottom: 16px!important;
+    margin-top: 16px!important;
+    border: 1px solid #ccc!important;
+    border-radius: 4px;
+    display: inline-block;
+    padding: 8px 16px;
+    vertical-align: middle;
+    overflow: hidden;
+    text-decoration: none;
+    color: inherit;
+    background-color: inherit;
+    text-align: center;
+    cursor: pointer;
+    white-space: nowrap;
+    max-width: 200px;
+}
+
+.b4Text{
+    font-size: 17px;
+    margin-top: 1.2em;
+    margin-bottom: 1.2em;
+    line-height: 1.5;
+    font-weight: 500;
+}
+
+.b5{
+    display: flex;
+    background-color: #6c3ec1;
+    color: white;
+    border-top-right-radius: 6px;
+    border-bottom-right-radius: 6px;
+    flex: 1;
+    padding-top: 60px;
+    padding-bottom: 30px;
+    padding-left: 24px;
+    padding-right: 24px;
+    flex-direction: column;
+    font-weight: 800;
+    align-items: center;
+}
+
+.b5BoxA{
+    color: inherit;
+    background-color: transparent;
+    cursor: pointer;
+    text-decoration: none;
+    padding: 24px;
+}
+
+.b5Box{
+    border-radius: 15%;
+    border: 2px solid white;
+    padding: 35px 25px;
+    display: inline-block;
+    font-size: 105px;
+}
+
+.b5Btn{
+    color: inherit;
+    background-color: transparent;
+    font-size: 19px;
+    margin-bottom: 16px!important;
+    margin-top: 16px!important;
+    border: 1px solid #ccc!important;
+    border-radius: 4px;
+    display: inline-block;
+    padding: 8px 16px;
+    vertical-align: middle;
+    overflow: hidden;
+    text-decoration: none;
+    text-align: center;
+    cursor: pointer;
+    white-space: nowrap;
+    max-width: 200px;
+}
+
+.b5Text{
+    font-size: 17px;
+    margin-top: 1.2em;
+    margin-bottom: 1.2em;
+    line-height: 1.5;
+    font-weight: 500;
+}
+
+.bootstrapContentContainer{
+    display: flex;
+    justify-content: center;
+    padding-left: 5rem;
+    padding-right: 5rem;
+    max-width: 1300px;
+    height: 600px
+}
+
